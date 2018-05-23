@@ -1,1 +1,7 @@
-console.log("Something");
+// This is a comment
+
+/* This is a multiline
+   comment
+*/
+
+console.log("Something New");
